@@ -11,12 +11,9 @@ img {
       font-size: 12pt;
       border-bottom: dashed 2px red;
   }
-  img[data-src] {
-    filter: blur(.5rem);
-  }
   
   img {
     filter: blur(0rem);
-    transition: filter 0.5s
+    transition: filter 15.0s
   }
   
